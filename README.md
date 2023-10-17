@@ -14,5 +14,5 @@ Anti Viruses are unable to detect download of the grabber
 
 # 2. Discord deleter
 
-Deletes users discord.
+Deletes users discord account
    
